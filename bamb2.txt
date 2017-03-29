@@ -1,1 +1,2 @@
+Gitkraken branch2 test
 Gitkraken branch3 edit to branch2 test
